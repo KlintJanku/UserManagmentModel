@@ -1,3 +1,46 @@
+Build using PHP Framework Laravel
+
+
+Install Composer and after run:
+
+    composer global require laravel/installer
+    
+To run app: 
+
+    php artisan serve
+    
+To populate the database with some dummy users and to generate an admin user because when you register as a new user you will automaticly be registerd as normal user run:
+
+    php artisan db:seed
+
+To edit admin info go to \database\seeds\UsersTableSeeder.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
