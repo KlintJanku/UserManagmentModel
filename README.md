@@ -16,6 +16,8 @@ To populate the database with some dummy users and to generate an admin user bec
 To edit admin info go to \database\seeds\UsersTableSeeder.php
 
 
+Connect to database in the .env file.
+
 
 
 
